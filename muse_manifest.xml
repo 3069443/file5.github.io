@@ -1,0 +1,44 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="files.github.io" resolutions="1x" timestamp="1478797538818">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="master_a-master.css" crc="4124186914" ref="20-liters-of-white-paint:i-move-to-find-myself-to-move-to-find-myself:index:divided-by-horizontal-and-diagonal-choices"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="20-liters-of-white-paint:i-move-to-find-myself-to-move-to-find-myself:index:divided-by-horizontal-and-diagonal-choices"/>
+    <file name="20-liters-of-white-paint.css" crc="4288354368" ref="20-liters-of-white-paint"/>
+    <file name="i-move-to-find-myself-to-move-to-find-myself.css" crc="349624290" ref="i-move-to-find-myself-to-move-to-find-myself"/>
+    <file name="index.css" crc="412586059" ref="index"/>
+    <file name="nomq_index.css" crc="102395315" ref="index"/>
+    <file name="divided-by-horizontal-and-diagonal-choices.css" crc="258823636" ref="divided-by-horizontal-and-diagonal-choices"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="20-liters-of-white-paint:i-move-to-find-myself-to-move-to-find-myself:divided-by-horizontal-and-diagonal-choices:index"/>
+    <file name="museutils.js" crc="3851988764" ref="20-liters-of-white-paint:i-move-to-find-myself-to-move-to-find-myself:divided-by-horizontal-and-diagonal-choices:index"/>
+    <file name="whatinput.js" crc="86476730" ref="20-liters-of-white-paint:i-move-to-find-myself-to-move-to-find-myself:divided-by-horizontal-and-diagonal-choices:index"/>
+    <file name="museconfig.js" crc="4242129463" ref="20-liters-of-white-paint:i-move-to-find-myself-to-move-to-find-myself:divided-by-horizontal-and-diagonal-choices:index"/>
+    <file name="webpro.js" crc="4067903014" ref="20-liters-of-white-paint:i-move-to-find-myself-to-move-to-find-myself:divided-by-horizontal-and-diagonal-choices:index"/>
+    <file name="musewpdisclosure.js" crc="338211507" ref="20-liters-of-white-paint:i-move-to-find-myself-to-move-to-find-myself:divided-by-horizontal-and-diagonal-choices:index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="20-liters-of-white-paint:i-move-to-find-myself-to-move-to-find-myself:divided-by-horizontal-and-diagonal-choices:index"/>
+    <file name="jquery.scrolleffects.js" crc="511146689" ref="20-liters-of-white-paint"/>
+    <file name="require.js" crc="4108833657" ref="20-liters-of-white-paint:i-move-to-find-myself-to-move-to-find-myself:divided-by-horizontal-and-diagonal-choices:index"/>
+    <file name="jquery.museresponsive.js" crc="516761069" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u198-4.png" crc="498436401" ref="20-liters-of-white-paint:i-move-to-find-myself-to-move-to-find-myself:divided-by-horizontal-and-diagonal-choices:index"/>
+    <file name="screen shot 2016-11-08 at 130021.jpg" crc="173401434" seo="true" ref="20-liters-of-white-paint"/>
+    <file name="screen shot 2016-11-10 at 175627.jpg" crc="3867753108" ref="20-liters-of-white-paint:index"/>
+    <file name="screen shot 2016-11-10 at 173624.jpg" crc="4246814049" ref="20-liters-of-white-paint:index"/>
+    <file name="screen shot 2016-11-08 at 130539.jpg" crc="4033366718" seo="true" ref="20-liters-of-white-paint"/>
+    <file name="screen shot 2016-11-08 at 130251.jpg" crc="3840636609" seo="true" ref="20-liters-of-white-paint"/>
+    <file name="screen shot 2016-11-05 at 233914.jpg" crc="4124878282" seo="true" ref="i-move-to-find-myself-to-move-to-find-myself"/>
+    <file name="222222.jpg" crc="173654685" seo="true" ref="i-move-to-find-myself-to-move-to-find-myself"/>
+    <file name="screen shot 2016-11-05 at 234000.jpg" crc="415654817" seo="true" ref="divided-by-horizontal-and-diagonal-choices"/>
+    <file name="screen shot 2016-11-08 at 123634.jpg" crc="3857448345" seo="true" ref="index"/>
+    <file name="screen shot 2016-11-10 at 173612.jpg" crc="4193873584" ref="index"/>
+    <file name="screen shot 2016-11-08 at 123634365x278.jpg" crc="135129866" seo="true" ref="index"/>
+    <file name="screen shot 2016-11-08 at 123634299x228.jpg" crc="4087515353" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="20-liters-of-white-paint.html" crc="446002358" seo="true" mt="1478797493776" redirect="true"/>
+  <file name="i-move-to-find-myself-to-move-to-find-myself.html" crc="4088308209" seo="true" mt="1478797493776" redirect="true"/>
+  <file name="divided-by-horizontal-and-diagonal-choices.html" crc="4052415456" seo="true" mt="1478797493776" redirect="true"/>
+  <file name="index.html" crc="474748696" seo="true" mt="1478797493776" redirect="true"/>
+</manifest>
